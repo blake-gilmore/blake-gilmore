@@ -1,16 +1,19 @@
-### Hi there 👋
+# About Me
 
-<!--
-**blake-gilmore/blake-gilmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student of Computer Science at the University of Nevada, Las Vegas. Always aiming to make a positive impact on the world, in all the small ways I can.
 
-Here are some ideas to get you started:
+## I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- C++
+- JavaScript
+- HTML
+
+## Current Projects
+
+I'm currently working on:
+
+- Building Slack bots with Python.
+- Developing websites with React.
+- Tackling various school projects with Java and C++.
