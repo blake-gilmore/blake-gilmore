@@ -3,7 +3,7 @@
 💻 I work with 
 - 🐍 Python, ☕ Java, ➕ C++, 🌐 Javascript, 🔧 HTML
 
-I'm currently working on:
+Currently working on:
 
 - 🤖 Building Slack bots with Python.
 - 🌐 Developing websites with React.
