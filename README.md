@@ -5,6 +5,6 @@ A student of Computer Science at the University of Nevada, Las Vegas. Always aim
 
 Currently working on:
 
-- 🤖 Building Slack bots with Python.
+- 🤖 Building Slack bots and Google Workspace automation with Python.
 - 🌐 Developing websites with React.
 - 📚 Tackling various school projects with Java and C++.
